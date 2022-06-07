@@ -1,0 +1,9 @@
+rootProject.name = 'spring-cloud-microservice'
+include 'account-service'
+include 'deposite-service'
+include 'bill-service'
+include 'confige-service'
+include 'gateway'
+include 'notification-service'
+include 'registry'
+
